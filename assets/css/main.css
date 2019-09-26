@@ -169,6 +169,10 @@ body {
   border-bottom: 2px solid #000000;
 }
 
+.header__menu-link--active {
+  border-bottom: 2px solid #000000;
+}
+
 /******************************/
 /* MAIN */
 /******************************/
